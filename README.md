@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6c3ce9,100:8a4fff&height=200&section=header&text=Necolious%20Shaw&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%2B%20iOS&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+%2B+iOS+Developer;CS+%40+UConn+Stamford+%2730;Building+Real+Products%2C+Not+Tutorials;Open+to+Summer+2026+Internships" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+%2B+iOS+Developer;CS+%40+UConn+Stamford+%2730;Building+Real+Products%2C+Not+Tutorials;Open+to+2026+Internships" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -30,7 +30,7 @@ Currently focused on:
 - 🔭 Full-stack development with real-time backends (Firebase, OAuth, PWA architecture)
 - 🌐 GitHub API-native tooling — building developer tools on top of GitHub's own infrastructure
 - 📱 iOS development in Swift/Xcode
-- 🎯 **Open to:** Summer 2026 software engineering internships
+- 🎯 **Open to:**  2026 software engineering internships
 
 <br/>
 
